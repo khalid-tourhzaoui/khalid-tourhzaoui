@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://khalid-tourhzaoui.vercel.app/](https://khalid-tourhzaoui.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://khalid-tourhzaoui.com/](https://khalid-tourhzaoui.vercel.app/)
 
 - 💬 Ask me about **web development**
 
