@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **khalidtourhzaoui@gmail.com**
 
-- 📄 Know about my experiences [RESUME-KHALID-TOURHZAOUI](https://khalid-tourhzaoui.vercel.app/assets/CV-KHALID-TOURHZAOUI-Z12sIber.pdf)
+- 📄 Know about my experiences [RESUME-KHALID-TOURHZAOUI](https://khalid-tourhzaoui.vercel.app/assets/CVKHALIDTOURHZAOUI-B9mdWPQw.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
