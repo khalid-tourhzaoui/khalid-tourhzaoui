@@ -202,8 +202,6 @@ available  : Open to exciting opportunities ✅
 
 </div>
 
-> **⚠️ Setup requis :** Créer `.github/workflows/snake.yml` (voir instructions ci-dessous)
-
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
