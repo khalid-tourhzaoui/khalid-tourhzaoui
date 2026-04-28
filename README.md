@@ -1,32 +1,235 @@
-[![MasterHead](https://enablejavascript.co/wp-content/uploads/2017/01/jstips-header-blog.gif)](https://github.com/arkajitroy)
-<h1 align="center">Hi 👋, I'm KHALID TOURHZAOUI</h1>
-<h3 align="center">A passionate web developer from Morocco</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid-tourhzaoui&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-tourhzaoui" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalid-tourhzaoui" alt="khalid-tourhzaoui" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"/>
+<div align="center">
 
-- 🔭 I’m currently working on **Ai Resume Builder**
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    BANNIÈRE ANIMÉE                         -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-- 🌱 I’m currently learning **Next.js**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Khalid%20Tourhzaoui&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Morocco%20🇲🇦&descAlignY=55&descSize=18" width="100%"/>
 
-- 👨‍💻 All of my projects are available at [https://khalid-tourhzaoui.com/](https://khalid-tourhzaoui.vercel.app/)
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  TEXTE ANIMÉ (TYPING SVG)                 -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-- 💬 Ask me about **web development**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Building+AI+Resume+Builder+...;💡+Passionate+Full-Stack+Developer;🌱+Currently+mastering+Next.js;🇲🇦+Crafting+digital+solutions+from+Morocco)](https://git.io/typing-svg)
 
-- 📫 How to reach me **khalidtourhzaoui@gmail.com**
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   BADGES VISITEURS & SUIVI                -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-- 📄 Know about my experiences [RESUME-KHALID-TOURHZAOUI](https://github.com/khalid-tourhzaoui/khalid-tourhzaoui/raw/main/MyResume.pdf)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khalid-tourhzaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid-tourhzaoui" height="30" width="40" /></a>
-<a href="https://instagram.com/the_re_khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_re_khalid" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=khalid-tourhzaoui&label=👁️+Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/khalid-tourhzaoui?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/khalid-tourhzaoui?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=f9a825&logo=github" alt="total stars"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="80" height="80"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid-tourhzaoui&show_icons=true&locale=en&layout=compact" alt="khalid-tourhzaoui" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid-tourhzaoui&show_icons=true&locale=en" alt="khalid-tourhzaoui" /></p>
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                     À PROPOS DE MOI                       -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-tourhzaoui&" alt="khalid-tourhzaoui" /></p>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+### 👋 Bonjour, je suis Khalid !
+
+```yaml
+name       : Khalid Tourhzaoui
+location   : Morocco 🇲🇦
+role       : Full-Stack Web Developer
+current    : Building an AI Resume Builder 🤖
+learning   : Next.js, AI integrations
+portfolio  : https://khalid-tourhzaoui.vercel.app
+email      : khalidtourhzaoui@gmail.com
+available  : Open to exciting opportunities ✅
+```
+
+- 🔭 Actuellement sur **AI Resume Builder**
+- 🌱 J'apprends **Next.js** & les intégrations IA
+- 💬 Ask me about **React, Laravel, TypeScript**
+- 📫 Contact : **khalidtourhzaoui@gmail.com**
+- ⚡ Fun fact : *Je code mieux avec du café marocain ☕*
+
+<br clear="right"/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  STATISTIQUES GITHUB                      -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/khalid-tourhzaoui">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalid-tourhzaoui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&border_radius=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-tourhzaoui&layout=compact&langs_count=10&theme=tokyonight&border_radius=12&hide=css,html&card_width=380"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   STREAK STATS                            -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=khalid-tourhzaoui&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" width="70%"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  TROPHÉES GITHUB                          -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=khalid-tourhzaoui&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" width="100%"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--               GRAPHIQUE D'ACTIVITÉ                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khalid-tourhzaoui&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false&radius=12" width="100%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                 MÉTRIQUES AVANCÉES                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🧩 Advanced Metrics
+
+<div align="center">
+
+| Métrique | Widget |
+|:---:|:---:|
+| **Commits & PRs** | ![Metrics](https://metrics.lecoq.io/khalid-tourhzaoui?template=classic&base.header=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Africa%2FCasablanca) |
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--          LANGAGES & OUTILS (SKILL ICONS)                  -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark&perline=8" />
+</p>
+
+### ⚙️ Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,nodejs,mysql,mongodb,oracle&theme=dark&perline=9" />
+</p>
+
+### 🔧 DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&theme=dark&perline=7" />
+</p>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--              BADGES RÉSEAUX SOCIAUX                       -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khalid-tourhzaoui.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khalid-tourhzaoui)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_re_khalid)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidtourhzaoui@gmail.com)
+[![Resume](https://img.shields.io/badge/📄_Resume-4CAF50?style=for-the-badge&logoColor=white)](https://github.com/khalid-tourhzaoui/khalid-tourhzaoui/raw/main/MyResume.pdf)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--               PINNED REPOSITORIES (cards)                 -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![AI Resume Builder](https://github-readme-stats.vercel.app/api/pin/?username=khalid-tourhzaoui&repo=AI-RESUME-BUILDER&theme=tokyonight&border_radius=12)](https://github.com/khalid-tourhzaoui)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=khalid-tourhzaoui&repo=khalid-tourhzaoui&theme=tokyonight&border_radius=12)](https://github.com/khalid-tourhzaoui)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--            SNAKE CONTRIBUTION ANIMATION                   -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khalid-tourhzaoui/khalid-tourhzaoui/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khalid-tourhzaoui/khalid-tourhzaoui/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/khalid-tourhzaoui/khalid-tourhzaoui/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+> **⚠️ Setup requis :** Créer `.github/workflows/snake.yml` (voir instructions ci-dessous)
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  CITATION MOTIVANTE                       -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   FOOTER ANIMÉ                            -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<div align="center">
+
+**⭐ Si vous trouvez mon travail utile, n'hésitez pas à star mes repos !**
+
+*Made with ❤️ from Morocco 🇲🇦*
+
+</div>
