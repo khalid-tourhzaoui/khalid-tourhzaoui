@@ -65,7 +65,7 @@ available  : Open to exciting opportunities ✅
 
 <a href="https://github.com/khalid-tourhzaoui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalid-tourhzaoui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-tourhzaoui&layout=compact&langs_count=10&theme=tokyonight&border_radius=12&hide=css,html&card_width=380"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-tourhzaoui&layout=compact&langs_count=10&theme=tokyonight&border_radius=12&card_width=380"/>
 </a>
 
 </div>
@@ -80,7 +80,7 @@ available  : Open to exciting opportunities ✅
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=khalid-tourhzaoui&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=khalid-tourhzaoui&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%20Y&mode=weekly" alt="GitHub Streak" width="70%"/>
 
 </div>
 
@@ -115,16 +115,22 @@ available  : Open to exciting opportunities ✅
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                 MÉTRIQUES AVANCÉES                        -->
+<!--          PROFILE SUMMARY CARDS (100% différent)           -->
+<!--   Affiche : repos par langage, commits par langage,       -->
+<!--   heures de codage productives, détails du profil         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## 🧩 Advanced Metrics
+## 🧩 Profile Deep Insights
 
 <div align="center">
 
-| Métrique | Widget |
-|:---:|:---:|
-| **Commits & PRs** | ![Metrics](https://metrics.lecoq.io/khalid-tourhzaoui?template=classic&base.header=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Africa%2FCasablanca) |
+<!-- Ligne 1 : Détails profil + Repos par langage -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khalid-tourhzaoui&theme=tokyonight" width="100%"/>
+
+<!-- Ligne 2 : Commits par langage + Repos par langage + Heures productives -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khalid-tourhzaoui&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khalid-tourhzaoui&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khalid-tourhzaoui&theme=tokyonight&utcOffset=1" width="32%"/>
 
 </div>
 
