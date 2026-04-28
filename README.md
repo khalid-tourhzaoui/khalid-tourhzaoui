@@ -40,7 +40,7 @@ location   : Morocco 🇲🇦
 role       : Full-Stack Web Developer
 current    : Building an AI Resume Builder 🤖
 learning   : Next.js, AI integrations
-portfolio  : https://khalid-tourhzaoui.vercel.app
+portfolio  : [https://khalidtourhzaoui.vercel.app](https://khalidtourhzaoui.vercel.app/)
 email      : khalidtourhzaoui@gmail.com
 available  : Open to exciting opportunities ✅
 ```
